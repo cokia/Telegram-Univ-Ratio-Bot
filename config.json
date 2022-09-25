@@ -1,0 +1,100 @@
+{
+  "telegramBotToken": "<user_bot_token>",
+  "telegramChannelId": "<Channel_id(or Group Id)>",
+  "updated": "2021-09-14T11:11:32.950781+00:00",
+  "schedule": "0 9,10,11,14,15,16,17,18 * * *",
+  "universities": [
+    {
+      "name": "고려대-차세대통신학과 ([16],[16],[11,14])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOGB9YTlKZiUmOiZKcGZUZg==",
+      "target_xpath": "#Tr_0152_001530000 > td:nth-child(4)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "고려대-스마트모빌리티 ([16],[16],[11,14])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOGB9YTlKZiUmOiZKcGZUZg==",
+      "target_xpath": "#Tr_0152_001750000 > td:nth-child(5)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "고려대-사이버국방(해킹특기) ([16],[16],[11,14])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOGB9YTlKZiUmOiZKcGZUZg==",
+      "target_xpath": "#Tr_0144_004020002 > td:nth-child(4)",
+      "type": "유웨이",
+      "final": false
+    },
+
+    {
+      "name": "한양대-SW특기(컴공/전체) ([17],[10,17],[10,17],[10,15])",
+      "ratio_url": "http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11640191.html",
+      "target_xpath": "#Ratio1164019 > div:nth-child(1) > table > tbody > tr:nth-child(6) > td:nth-child(4)",
+      "type": "진학",
+      "final": false
+    },
+    {
+      "name": "경희대-SW특기(전체) ([10,17] * 3 - [12])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOnw5SmYlJjomSnBmVGY=",
+      "target_xpath": "#Tr_409_0 > td:nth-child(4)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "경희대-SW특기(컴공) ([10,17] * 3 - [12])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOnw5SmYlJjomSnBmVGY=",
+      "target_xpath": "#Tr_02409_004980000 > td:nth-child(6)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "경희대-SW특기(소프트웨어융합) ([10,17] * 3 - [12])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOnw5SmYlJjomSnBmVGY=",
+      "target_xpath": "#Tr_02409_004990000 > td:nth-child(4)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "중앙대-탐구형(전자전기공학부) ([10,17] * 3 - [10,14])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOjhMSmYlJjomSnBmVGY=",
+      "target_xpath": "#Tr_0003_000970000 > td:nth-child(6) > font",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "중앙대-탐구형(소프트웨어학부) ([10,17] * 3 - [10,14])",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KOjhMSmYlJjomSnBmVGY=",
+      "target_xpath": "#Tr_0003_000980000 > td:nth-child(5) > font",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "숭실대 SW인재 (컴공) - 1시간",
+      "ratio_url": "http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11010211.html",
+      "target_xpath": "#SelType404 > table > tbody > tr:nth-child(2) > td.rate4",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "UNIST-특기자 ([9,18] (토))",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KMCYlVzpKXiUmOiZKcGZUZg==",
+      "target_xpath": "#tableRatioYo > tbody > tr:nth-child(5) > th:nth-child(10)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "GIST-특기자 ([9,18] (토))",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KMCYlckpeJSY6JkpwZlRm",
+      "target_xpath": "#Tr_00EUA02_50_0 > td:nth-child(4)",
+      "type": "유웨이",
+      "final": false
+    },
+    {
+      "name": "DGIST-특기자 ([9,18] (토))",
+      "ratio_url": "http://ratio.uwayapply.com/Sl5KMCYlclZKXiUmOiZKcGZUZg==",
+      "target_xpath": "#Tr_00E_0 > td:nth-child(4)",
+      "type": "유웨이",
+      "final": false
+    }
+  ]
+}

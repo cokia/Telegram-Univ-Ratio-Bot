@@ -1,0 +1,14 @@
+{
+  "name": "telegram-univ-uwayapply-notification",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cokia/telegram-univ-uwayapply-notification",
+  "author": "cokia <hanu@hanukoon.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10",
+    "node-schedule": "^2.0.0",
+    "node-telegram-bot-api": "^0.54.0"
+  }
+}
