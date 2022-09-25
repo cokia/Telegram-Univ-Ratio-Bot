@@ -5,28 +5,6 @@
   "schedule": "0 9,10,11,14,15,16,17,18 * * *",
   "universities": [
     {
-      "name": "고려대-차세대통신학과 ([16],[16],[11,14])",
-      "ratio_url": "http://ratio.uwayapply.com/Sl5KOGB9YTlKZiUmOiZKcGZUZg==",
-      "target_xpath": "#Tr_0152_001530000 > td:nth-child(4)",
-      "type": "유웨이",
-      "final": false
-    },
-    {
-      "name": "고려대-스마트모빌리티 ([16],[16],[11,14])",
-      "ratio_url": "http://ratio.uwayapply.com/Sl5KOGB9YTlKZiUmOiZKcGZUZg==",
-      "target_xpath": "#Tr_0152_001750000 > td:nth-child(5)",
-      "type": "유웨이",
-      "final": false
-    },
-    {
-      "name": "고려대-사이버국방(해킹특기) ([16],[16],[11,14])",
-      "ratio_url": "http://ratio.uwayapply.com/Sl5KOGB9YTlKZiUmOiZKcGZUZg==",
-      "target_xpath": "#Tr_0144_004020002 > td:nth-child(4)",
-      "type": "유웨이",
-      "final": false
-    },
-
-    {
       "name": "한양대-SW특기(컴공/전체) ([17],[10,17],[10,17],[10,15])",
       "ratio_url": "http://addon.jinhakapply.com/RatioV1/RatioH/Ratio11640191.html",
       "target_xpath": "#Ratio1164019 > div:nth-child(1) > table > tbody > tr:nth-child(6) > td:nth-child(4)",
